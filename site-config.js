@@ -1,0 +1,2 @@
+// Contact and service details supplied by Daniel A. Kamara.
+window.PLUMBING_SITE={serviceArea:'Freetown, Sierra Leone',phone:'+232 79 351 163',phoneLink:'+23279351163',whatsapp:'23279351163',email:'',address:'New England, Freetown, Sierra Leone',hours:'Contact Daniel for availability',instagram:'',tiktok:'https://www.tiktok.com/@danielakamara0',facebook:'https://www.facebook.com/search/top?q=Daniel%20A%20kamara',orangeMoney:'+232 79 351 163'};
